@@ -35,9 +35,15 @@ https://vistula-team-project-64613.github.io/vistula-task-manager/
 **GitHub Repository:**  
 https://github.com/vistula-team-project-64613/vistula-task-manager
 
+
 ## Team Collaboration
 
-Pull Request links will be added after both contributions have been merged.
+**My Pull Request to partner:**
+https://github.com/okavsar9-boop/vistula-task-manager/pull/1
+
+**Partner's Pull Request to my repository:**
+https://github.com/vistula-team-project-64613/vistula-task-manager/pull/1
+
 
 ## Notes
 
